@@ -1,0 +1,2 @@
+# ICT602Lab2
+Lab 2 ICT602
